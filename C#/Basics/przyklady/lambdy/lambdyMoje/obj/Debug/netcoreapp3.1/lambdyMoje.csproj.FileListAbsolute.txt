@@ -1,0 +1,13 @@
+Z:\lambdy\lambdyMoje\bin\Debug\netcoreapp3.1\lambdyMoje.exe
+Z:\lambdy\lambdyMoje\bin\Debug\netcoreapp3.1\lambdyMoje.deps.json
+Z:\lambdy\lambdyMoje\bin\Debug\netcoreapp3.1\lambdyMoje.runtimeconfig.json
+Z:\lambdy\lambdyMoje\bin\Debug\netcoreapp3.1\lambdyMoje.runtimeconfig.dev.json
+Z:\lambdy\lambdyMoje\bin\Debug\netcoreapp3.1\lambdyMoje.dll
+Z:\lambdy\lambdyMoje\bin\Debug\netcoreapp3.1\lambdyMoje.pdb
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.csprojAssemblyReference.cache
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.csproj.CoreCompileInputs.cache
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.AssemblyInfoInputs.cache
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.AssemblyInfo.cs
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.dll
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.pdb
+Z:\lambdy\lambdyMoje\obj\Debug\netcoreapp3.1\lambdyMoje.genruntimeconfig.cache
