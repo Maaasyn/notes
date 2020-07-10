@@ -143,3 +143,5 @@ Assert.That(result == true);
 Assert.That(result, Is.True);
 ```
 
+[Porównanie trzech frameworków](https://xunit.net/docs/comparisons)
+
