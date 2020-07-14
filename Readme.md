@@ -1,0 +1,3 @@
+# Notatki..
+
+oraz różne różności. ✨
