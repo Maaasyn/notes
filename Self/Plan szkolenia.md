@@ -62,5 +62,5 @@ Linki
 
 
 
-![Obecna komunikacja](Obecna komunikacja.png)
+![Obecna komunikacja](./Obecna komunikacja.png)
 
