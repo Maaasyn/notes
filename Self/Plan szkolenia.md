@@ -6,6 +6,7 @@
 
 - Vsc / Webstorm (preferowany Webstorm)
 - Node.js LTS (na oficjalnej stronie jest instalka do maka również)
+- Laptop
 
 - [ ]  Ogólnie
 	- [ ]  Co i jak?
@@ -26,11 +27,14 @@
 			- [ ]  Endpointy i filtrowanie
 		- [ ]  Autoryzacja vs Identyfikacja (Authentication and Authorization)
 		- [ ]  ORM, DTO, bazy danych co i jak.
+		- [ ]  Języki
 	- [ ] **Frontend**
 		- [ ] One to rule them all
 		- [ ] Historia JS
 		- [ ] UX/ UI
-		- [ ] Czy front end to programowanie?
+  	- [ ] Czy front end to programowanie?
+    - [ ] Technologie frontendowe, React, Angular, Vue, GraphQL
+    - [ ] Korzystanie z mikroserwisów.
     
 
 ### Kodzenie
@@ -46,6 +50,8 @@
 		- [ ]  Gatsby
 		- [ ]  GraphQL
 
+------
+
 Linki
 
 [Api](https://jsonplaceholder.typicode.com/)
@@ -56,5 +62,5 @@ Linki
 
 
 
-![Obecna komunikacja](C:\Users\marcin\Documents\notatki\Self\Obecna komunikacja.png)
+![Obecna komunikacja](Obecna komunikacja.png)
 
