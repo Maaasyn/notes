@@ -1,12 +1,13 @@
 # Szkolenie
 
-### Ogólnie
 
-##### Co będzie potrzebne
+### Co będzie potrzebne
 
 - Vsc / Webstorm (preferowany Webstorm)
 - Node.js LTS (na oficjalnej stronie jest instalka do maka również)
 - Laptop
+
+### Ogólnie
 
 - [ ]  Ogólnie
 	- [ ]  Co i jak?
@@ -23,6 +24,7 @@
 		- [ ]  Rola
 		- [ ]  Zadania
 		- [ ] Stanowość
+		- [ ] Skalowanie horyzontalne i vertykalne
 		- [ ]  Api 
 			- [ ]  Endpointy i filtrowanie
 		- [ ]  Autoryzacja vs Identyfikacja (Authentication and Authorization)
@@ -31,9 +33,10 @@
 	- [ ] **Frontend**
 		- [ ] One to rule them all
 		- [ ] Historia JS
-		- [ ] UX/ UI
+  	- [ ] UX/ UI
   	- [ ] Czy front end to programowanie?
     - [ ] Technologie frontendowe, React, Angular, Vue, GraphQL
+    - [ ] Technologie backendowe zorientowane frontendowo (Hasura, Strapi)
     - [ ] Korzystanie z mikroserwisów.
     
 
@@ -64,3 +67,4 @@ Linki
 
 ![obecna komunikacja](obecna-komunikacja.png)
 
+![Skalowanie](hvsv.jpg)
